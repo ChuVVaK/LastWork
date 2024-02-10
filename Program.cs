@@ -36,3 +36,26 @@ int CountSymbols(string[] workArray)
     }
     return counter;
 }
+
+string[] CreateArray(string[] workArray)
+{
+    int resultArrayLength = CountSymbols(workArray);
+    string[] resultArray = new string[resultArrayLength];
+    int i = 0;
+    foreach (string item in workArray)
+    {
+        if (item.Length <= 3)
+        {
+            resultArray[i] = item;
+            i++;
+        }
+    }
+    return resultArray;
+}
+
+string[] workArray = FillArray();
+string[] resultArray = CreateArray(workArray);
+string startArray = PrintArray(workArray);
+string finishArray = PrintArray(resultArray);
+Console.WriteLine(startArray);
+Console.WriteLine(finishArray);
