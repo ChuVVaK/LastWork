@@ -1,0 +1,15 @@
+D:\BoBa\Lessons\repository\LastWork\bin\Debug\net6.0\LastWork.exe
+D:\BoBa\Lessons\repository\LastWork\bin\Debug\net6.0\LastWork.deps.json
+D:\BoBa\Lessons\repository\LastWork\bin\Debug\net6.0\LastWork.runtimeconfig.json
+D:\BoBa\Lessons\repository\LastWork\bin\Debug\net6.0\LastWork.dll
+D:\BoBa\Lessons\repository\LastWork\bin\Debug\net6.0\LastWork.pdb
+D:\BoBa\Lessons\repository\LastWork\obj\Debug\net6.0\LastWork.csproj.AssemblyReference.cache
+D:\BoBa\Lessons\repository\LastWork\obj\Debug\net6.0\LastWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\BoBa\Lessons\repository\LastWork\obj\Debug\net6.0\LastWork.AssemblyInfoInputs.cache
+D:\BoBa\Lessons\repository\LastWork\obj\Debug\net6.0\LastWork.AssemblyInfo.cs
+D:\BoBa\Lessons\repository\LastWork\obj\Debug\net6.0\LastWork.csproj.CoreCompileInputs.cache
+D:\BoBa\Lessons\repository\LastWork\obj\Debug\net6.0\LastWork.dll
+D:\BoBa\Lessons\repository\LastWork\obj\Debug\net6.0\refint\LastWork.dll
+D:\BoBa\Lessons\repository\LastWork\obj\Debug\net6.0\LastWork.pdb
+D:\BoBa\Lessons\repository\LastWork\obj\Debug\net6.0\LastWork.genruntimeconfig.cache
+D:\BoBa\Lessons\repository\LastWork\obj\Debug\net6.0\ref\LastWork.dll
